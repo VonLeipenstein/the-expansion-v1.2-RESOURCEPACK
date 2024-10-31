@@ -4,8 +4,8 @@
         "srcrgb": "srcalpha",
         "dstrgb": "1-srcalpha"
     },
-    "vertex": "position_tex",
-    "fragment": "position_tex",
+    "vertex": "minecraft:core/position_tex",
+    "fragment": "minecraft:core/position_tex",
     "attributes": [
         "Position",
         "UV0",

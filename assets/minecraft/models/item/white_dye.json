@@ -48,30 +48,6 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 8
-			},
-			"model": "animated_java:item/compressor/root"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 9
-			},
-			"model": "animated_java:item/compressor/piston_left"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 10
-			},
-			"model": "animated_java:item/compressor/piston_middle"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 11
-			},
-			"model": "animated_java:item/compressor/piston_right"
-		},
-		{
-			"predicate": {
 				"custom_model_data": 12
 			},
 			"model": "animated_java:item/enhancer/bone2"
@@ -87,11 +63,35 @@
 				"custom_model_data": 14
 			},
 			"model": "animated_java:item/enhancer/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1012000
+			},
+			"model": "animated_java:item/compressor/default/root"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1012001
+			},
+			"model": "animated_java:item/compressor/default/piston_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1012002
+			},
+			"model": "animated_java:item/compressor/default/piston_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1012003
+			},
+			"model": "animated_java:item/compressor/default/piston_right"
 		}
 	],
 	"animated_java": {
 		"buggy": [1, 2, 3, 4, 5, 6, 7],
-		"compressor": [8, 9, 10, 11],
+		"compressor": [1012000, 1012001, 1012002, 1012003],
 		"enhancer": [12, 13, 14]
 	}
 }
