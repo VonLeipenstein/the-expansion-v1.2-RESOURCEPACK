@@ -423,13 +423,18 @@
 	"exp_screentxt_fuel_actionbar":"Fuel: ",
 	"exp_screentxt_loaderror_chat":"The Expansion was not installed correctly, the custom dimensions didn't load. Try rejoining or restarting your world and make sure that you are not playing on an incompatible server jar.",
 
-	"exp_screentxt_oxygen_basetoobig":"§cThe base is either to big or not enclosed.",
 	"exp_screentxt_oxygen_pressurefail":"§c§lPressurization Failed",
-	"exp_screentxt_oxygen_pressuresuccess":"§a§lBase Pressurized",
-	"exp_screentxt_oxygen_nobreathe":"§cThe air is no longer breathable.",
-	"exp_screentxt_oxygen_breathe":"§aThe air inside is breathable now.",
+	"exp_screentxt_oxygen_toolong":"§cPressurization took over 20 seconds.",
+	"exp_screentxt_oxygen_blockcap":"§cBlock capacity (2000) exceeded, room is too large.",
+	"exp_screentxt_oxygen_scancap":"§cScan capacity (100) exceeded, room is too vast.",
+	"exp_screentxt_oxygen_noleaves":"§cLeaves reservior depleted.",
+
 	"exp_screentxt_oxygen_pressurestop":"§c§lBase De-Pressurized",
-	"exp_screentxt_oxygen_noleaves":"§cLeaves depleted, the air is no longer breathable.",
+	"exp_screentxt_oxygen_nobreathe":"§cThe air is no longer breathable.",
+	
+	"exp_screentxt_oxygen_pressuresuccess":"§a§lBase Pressurized",
+	"exp_screentxt_oxygen_detected":"§a§lOxygen Detected",
+	"exp_screentxt_oxygen_breathe":"§aThe air inside is breathable now.",
 
 	"exp_screentxt_rocket_fuelfail1":"§c§lYou need ",
 	"exp_screentxt_rocket_fuelfail2":"§c§l more blaze powder",
