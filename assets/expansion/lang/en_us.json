@@ -170,7 +170,7 @@
 	"exp_blocks_extractor_tip2":"§b- Place crying obsidian in the slot above the extractor.",
 
 	"exp_blocks_planetarium_name":"Planetarium",
-	"exp_blocks_planetarium_tip1":"§b- Displays the positions of the planets in space.",
+	"exp_blocks_planetarium_tip1":"§b- A very pretty showcase of the solar system!",
 	"exp_blocks_planetarium_tip2":"§b- Use while inside the spaceship in space to activate.",
 	"exp_blocks_planetarium_tip3":"§b- Can be placed down for decoration.",
 
@@ -422,6 +422,7 @@
 	"exp_screentxt_speed_actionbar":"Speed: ",
 	"exp_screentxt_fuel_actionbar":"Fuel: ",
 	"exp_screentxt_loaderror_chat":"The Expansion was not installed correctly, the custom dimensions didn't load. Try rejoining or restarting your world and make sure that you are not playing on an incompatible server jar.",
+	"exp_screentxt_solarsystemsuccess_chat":"<§9The Expansion§r> Solar System generation completed successfully!",
 
 	"exp_screentxt_oxygen_pressurefail":"§c§lPressurization Failed",
 	"exp_screentxt_oxygen_toolong":"§cPressurization took over 20 seconds.",
