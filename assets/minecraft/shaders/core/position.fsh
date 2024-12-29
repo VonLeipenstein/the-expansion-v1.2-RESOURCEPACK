@@ -1,7 +1,7 @@
 #version 150
 
-#moj_import <fog.glsl>
-#moj_import <light.glsl>
+#moj_import <minecraft:fog.glsl>
+#moj_import <minecraft:light.glsl>
 
 uniform vec4 ColorModulator;
 uniform float FogStart;

@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "humanoid": [
+      { "texture": "expansion:pilot" }
+    ],
+    "humanoid_leggings": [
+      { "texture": "expansion:pilot" }
+    ]
+  }
+}

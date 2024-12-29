@@ -1,0 +1,7 @@
+{
+	"parent": "expansion:blocks/fabricator/gui/loader",
+	"textures": {
+		"0": "expansion:blocks/fabricator/loader/loader_9",
+		"particle": "expansion:blocks/fabricator/loader/loader_9"
+	}
+}

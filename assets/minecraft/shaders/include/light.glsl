@@ -1,6 +1,6 @@
 #version 150
 
-#moj_import <compare_float.glsl>
+#moj_import <minecraft:compare_float.glsl>
 
 #define MINECRAFT_LIGHT_POWER   (0.6)
 #define MINECRAFT_AMBIENT_LIGHT (0.4)

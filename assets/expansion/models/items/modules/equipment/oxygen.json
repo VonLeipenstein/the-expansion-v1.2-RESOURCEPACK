@@ -1,0 +1,6 @@
+{
+	"parent": "expansion:items/modules/vehicle/spaceship_mod",
+	"textures": {
+		"1": "expansion:items/equipment_modules/oxygen"
+	}
+}
