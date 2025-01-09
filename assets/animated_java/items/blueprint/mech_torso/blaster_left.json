@@ -1,0 +1,67 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "standard",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/standard/blaster_left"
+				}
+			},
+			{
+				"when": "drill_left",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/drill_left/blaster_left"
+				}
+			},
+			{
+				"when": "empty_both",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/empty_both/blaster_left"
+				}
+			},
+			{
+				"when": "empty_left",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/empty_left/blaster_left"
+				}
+			},
+			{
+				"when": "gatling_left",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/gatling_left/blaster_left"
+				}
+			},
+			{
+				"when": "rocket_left",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/rocket_left/blaster_left"
+				}
+			},
+			{
+				"when": "sword_left",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/sword_left/blaster_left"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "animated_java:blueprint/mech_torso/blaster_left"
+		},
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": [1, 1, 1]
+			}
+		]
+	}
+}

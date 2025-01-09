@@ -1,8 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "animated_java:item/compressor/texture",
-		"particle": "animated_java:item/compressor/texture"
+		"1": "animated_java:blueprint/compressor/texture",
+		"particle": "animated_java:blueprint/compressor/texture"
 	},
 	"elements": [
 		{

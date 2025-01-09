@@ -1,0 +1,67 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "standard",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/standard/barrel_right"
+				}
+			},
+			{
+				"when": "drill_right",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/drill_right/barrel_right"
+				}
+			},
+			{
+				"when": "empty_both",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/empty_both/barrel_right"
+				}
+			},
+			{
+				"when": "empty_right",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/empty_right/barrel_right"
+				}
+			},
+			{
+				"when": "gatling_right",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/gatling_right/barrel_right"
+				}
+			},
+			{
+				"when": "rocket_right",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/rocket_right/barrel_right"
+				}
+			},
+			{
+				"when": "sword_right",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/sword_right/barrel_right"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "animated_java:blueprint/mech_torso/barrel_right"
+		},
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": [1, 1, 1]
+			}
+		]
+	}
+}
