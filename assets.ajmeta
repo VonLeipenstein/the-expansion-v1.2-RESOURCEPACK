@@ -1,10 +1,8 @@
 {
 	"assembler": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/assembler/assembler.png",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/assembler/base.json",
 			"assets/animated_java/items/blueprint/assembler/ring.json",
 			"assets/animated_java/items/blueprint/assembler/bone25.json",
@@ -81,10 +79,8 @@
 	},
 	"buggy": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/buggy/buggy.png",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/buggy/root.json",
 			"assets/animated_java/items/blueprint/buggy/antenna.json",
 			"assets/animated_java/items/blueprint/buggy/hexadecagon.json",
@@ -101,10 +97,8 @@
 	},
 	"compressor": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/compressor/texture.png",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/compressor/root.json",
 			"assets/animated_java/items/blueprint/compressor/piston_left.json",
 			"assets/animated_java/items/blueprint/compressor/piston_middle.json",
@@ -117,10 +111,8 @@
 	},
 	"enhancer": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/enhancer/texture.png",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/enhancer/bone.json",
 			"assets/animated_java/items/blueprint/enhancer/scanner.json",
 			"assets/animated_java/items/blueprint/enhancer/bone2.json",
@@ -131,10 +123,8 @@
 	},
 	"fabricator": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/fabricator/fabricator.png",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/fabricator/bone2.json",
 			"assets/animated_java/items/blueprint/fabricator/frame.json",
 			"assets/animated_java/items/blueprint/fabricator/arm_z.json",
@@ -151,10 +141,8 @@
 	},
 	"mech_legs": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/mech_legs/mech.png",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/mech_legs/hips.json",
 			"assets/animated_java/items/blueprint/mech_legs/leg.json",
 			"assets/animated_java/items/blueprint/mech_legs/bone4.json",
@@ -177,7 +165,6 @@
 	},
 	"mech_torso": {
 		"files": [
-			"assets/minecraft/atlases/blocks.json",
 			"assets/animated_java/models/empty.json",
 			"assets/animated_java/textures/blueprint/mech_torso/blank.png",
 			"assets/animated_java/textures/blueprint/mech_torso/mech.png",
@@ -186,7 +173,6 @@
 			"assets/animated_java/textures/blueprint/mech_torso/rocket.png",
 			"assets/animated_java/textures/blueprint/mech_torso/drill.png",
 			"assets/animated_java/textures/blueprint/mech_torso/mech_interior.png",
-			"assets/animated_java/textures/blueprint/transparent.png",
 			"assets/animated_java/items/blueprint/mech_torso/torso.json",
 			"assets/animated_java/items/blueprint/mech_torso/jetpack2.json",
 			"assets/animated_java/items/blueprint/mech_torso/left_arm.json",
