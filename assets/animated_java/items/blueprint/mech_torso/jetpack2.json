@@ -18,20 +18,6 @@
 				}
 			},
 			{
-				"when": "drill_right",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/drill_right/jetpack2"
-				}
-			},
-			{
-				"when": "empty_both",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/empty_both/jetpack2"
-				}
-			},
-			{
 				"when": "empty_left",
 				"model": {
 					"type": "minecraft:model",
@@ -43,48 +29,6 @@
 				"model": {
 					"type": "minecraft:model",
 					"model": "animated_java:blueprint/mech_torso/empty_right/jetpack2"
-				}
-			},
-			{
-				"when": "gatling_left",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/gatling_left/jetpack2"
-				}
-			},
-			{
-				"when": "gatling_right",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/gatling_right/jetpack2"
-				}
-			},
-			{
-				"when": "rocket_left",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/rocket_left/jetpack2"
-				}
-			},
-			{
-				"when": "rocket_right",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/rocket_right/jetpack2"
-				}
-			},
-			{
-				"when": "sword_left",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/sword_left/jetpack2"
-				}
-			},
-			{
-				"when": "sword_right",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/sword_right/jetpack2"
 				}
 			}
 		],

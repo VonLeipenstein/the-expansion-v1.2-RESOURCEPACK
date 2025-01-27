@@ -1,0 +1,10 @@
+{
+	"parent": "animated_java:blueprint/mech_torso/barrel4",
+	"textures": {
+		"2": "animated_java:blueprint/mech_torso/blank",
+		"3": "animated_java:blueprint/mech_torso/blank",
+		"4": "animated_java:blueprint/mech_torso/blank",
+		"5": "animated_java:blueprint/mech_torso/blank",
+		"7": "animated_java:blueprint/mech_torso/blank"
+	}
+}

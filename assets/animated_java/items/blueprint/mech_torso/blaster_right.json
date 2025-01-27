@@ -32,6 +32,13 @@
 				}
 			},
 			{
+				"when": "gatling_left",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/gatling_left/blaster_right"
+				}
+			},
+			{
 				"when": "gatling_right",
 				"model": {
 					"type": "minecraft:model",
