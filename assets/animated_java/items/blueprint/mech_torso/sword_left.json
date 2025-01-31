@@ -4,10 +4,17 @@
 		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": "standard",
+				"when": "empty_both",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/standard/sword_left"
+					"model": "animated_java:blueprint/mech_torso/empty_both/sword_left"
+				}
+			},
+			{
+				"when": "sword_left",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/sword_left/sword_left"
 				}
 			},
 			{
@@ -18,24 +25,10 @@
 				}
 			},
 			{
-				"when": "empty_both",
+				"when": "cannon_left",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/empty_both/sword_left"
-				}
-			},
-			{
-				"when": "empty_left",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/empty_left/sword_left"
-				}
-			},
-			{
-				"when": "gatling_left",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/gatling_left/sword_left"
+					"model": "animated_java:blueprint/mech_torso/cannon_left/sword_left"
 				}
 			},
 			{
@@ -46,10 +39,10 @@
 				}
 			},
 			{
-				"when": "sword_left",
+				"when": "empty_left",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/sword_left/sword_left"
+					"model": "animated_java:blueprint/mech_torso/empty_left/sword_left"
 				}
 			}
 		],

@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:blueprint/mech_torso/left_arm",
-	"textures": {
-		"1": "animated_java:blueprint/mech_torso/mech"
-	}
-}

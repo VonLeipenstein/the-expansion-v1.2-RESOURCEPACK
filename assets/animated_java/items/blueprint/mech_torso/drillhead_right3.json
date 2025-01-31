@@ -4,10 +4,17 @@
 		"property": "minecraft:custom_model_data",
 		"cases": [
 			{
-				"when": "standard",
+				"when": "empty_both",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/standard/drillhead_right3"
+					"model": "animated_java:blueprint/mech_torso/empty_both/drillhead_right3"
+				}
+			},
+			{
+				"when": "sword_right",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/sword_right/drillhead_right3"
 				}
 			},
 			{
@@ -18,27 +25,6 @@
 				}
 			},
 			{
-				"when": "empty_both",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/empty_both/drillhead_right3"
-				}
-			},
-			{
-				"when": "empty_right",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/empty_right/drillhead_right3"
-				}
-			},
-			{
-				"when": "gatling_right",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/gatling_right/drillhead_right3"
-				}
-			},
-			{
 				"when": "rocket_right",
 				"model": {
 					"type": "minecraft:model",
@@ -46,10 +32,17 @@
 				}
 			},
 			{
-				"when": "sword_right",
+				"when": "cannon_right",
 				"model": {
 					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/sword_right/drillhead_right3"
+					"model": "animated_java:blueprint/mech_torso/cannon_right/drillhead_right3"
+				}
+			},
+			{
+				"when": "empty_right",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/mech_torso/empty_right/drillhead_right3"
 				}
 			}
 		],

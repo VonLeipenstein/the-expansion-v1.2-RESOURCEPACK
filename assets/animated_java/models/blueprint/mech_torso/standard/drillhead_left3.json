@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:blueprint/mech_torso/drillhead_left3",
-	"textures": {
-		"1": "animated_java:blueprint/mech_torso/mech"
-	}
-}

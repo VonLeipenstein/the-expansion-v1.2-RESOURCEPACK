@@ -1,20 +1,7 @@
 {
 	"model": {
-		"type": "minecraft:select",
-		"property": "minecraft:custom_model_data",
-		"cases": [
-			{
-				"when": "standard",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/standard/torso"
-				}
-			}
-		],
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "animated_java:blueprint/mech_torso/torso"
-		},
+		"type": "minecraft:model",
+		"model": "animated_java:blueprint/mech_torso/torso",
 		"tints": [
 			{
 				"type": "minecraft:dye",

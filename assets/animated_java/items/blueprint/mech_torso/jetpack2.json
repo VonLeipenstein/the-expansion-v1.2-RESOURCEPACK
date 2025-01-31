@@ -1,41 +1,7 @@
 {
 	"model": {
-		"type": "minecraft:select",
-		"property": "minecraft:custom_model_data",
-		"cases": [
-			{
-				"when": "standard",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/standard/jetpack2"
-				}
-			},
-			{
-				"when": "drill_left",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/drill_left/jetpack2"
-				}
-			},
-			{
-				"when": "empty_left",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/empty_left/jetpack2"
-				}
-			},
-			{
-				"when": "empty_right",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/mech_torso/empty_right/jetpack2"
-				}
-			}
-		],
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "animated_java:blueprint/mech_torso/jetpack2"
-		},
+		"type": "minecraft:model",
+		"model": "animated_java:blueprint/mech_torso/jetpack2",
 		"tints": [
 			{
 				"type": "minecraft:dye",

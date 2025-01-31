@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "humanoid": [
+      { "texture": "expansion:golem" }
+    ],
+    "humanoid_leggings": [
+      { "texture": "expansion:golem" }
+    ]
+  }
+}
