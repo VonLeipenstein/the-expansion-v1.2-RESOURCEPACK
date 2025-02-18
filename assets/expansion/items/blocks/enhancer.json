@@ -7,8 +7,36 @@
         {
           "when": "gui",
           "model": {
+            "type": "minecraft:select",
+            "property": "minecraft:custom_model_data",
+            "index": 1,
+            "cases": [
+              {
+                "when": "none",
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "expansion:blocks/enhancer/gui/none"
+                }
+              },
+              {
+                "when": "weapon",
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "expansion:blocks/enhancer/gui/weapon"
+                }
+              },
+              {
+                "when": "equipment",
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "expansion:blocks/enhancer/gui/equipment"
+                }
+              }
+            ],
+            "fallback": {
               "type": "minecraft:model",
-              "model": "expansion:blocks/enhancer/gui"
+              "model": "expansion:blocks/enhancer/gui/none"
+            }
           }
         }
       ],
