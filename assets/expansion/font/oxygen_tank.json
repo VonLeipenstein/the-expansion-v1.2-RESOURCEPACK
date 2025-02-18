@@ -1,0 +1,221 @@
+{
+    "providers": [
+		{
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/10.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa01"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/20.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa02"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/30.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa03"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/40.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa04"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/50.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa05"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/60.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa06"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/70.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa07"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/80.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa08"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/90.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa09"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier1/100.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\ufa0a"]
+		},
+		{
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/10.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff01"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/20.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff02"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/30.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff03"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/40.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff04"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/50.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff05"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/60.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff06"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/70.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff07"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/80.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff08"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/90.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff09"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier2/100.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\uff0a"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/10.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0021"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/20.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0022"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/30.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0023"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/40.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0024"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/50.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0025"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/60.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0026"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/70.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0027"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/80.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0028"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/90.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0029"]
+		},
+        {
+            "type": "bitmap",
+            "file": "expansion:tools/oxygen_tank/tier3/100.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": ["\u0030"]
+		}
+	]
+}
